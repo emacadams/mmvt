@@ -1,0 +1,10 @@
+DEBUG:pizco.pizco:New agent at tcp://127.0.0.1:8000 with context <zmq.sugar.context.Context object at 0x113e53048> and loop <zmq.eventloop._deprecated.ZMQIOLoop object at 0x11d6d5fd0>
+DEBUG:pizco.pizco:Bound rep at tcp://127.0.0.1:8000 REP.
+DEBUG:pizco.pizco:tcp://127.0.0.1:8000 PUB: tcp://127.0.0.1:60500
+DEBUG:pizco.pizco:tcp://127.0.0.1:8000 SUB: tcp://127.0.0.1:60501
+INFO:pizco.pizco:Started agent tcp://127.0.0.1:8000
+DEBUG:pizco.pizco:New agent at tcp://127.0.0.1:8000 with context <zmq.sugar.context.Context object at 0x1214fe0a0> and loop <zmq.eventloop._deprecated.ZMQIOLoop object at 0x11121b470>
+DEBUG:pizco.pizco:Bound rep at tcp://127.0.0.1:8000 REP.
+DEBUG:pizco.pizco:tcp://127.0.0.1:8000 PUB: tcp://127.0.0.1:60540
+DEBUG:pizco.pizco:tcp://127.0.0.1:8000 SUB: tcp://127.0.0.1:60541
+INFO:pizco.pizco:Started agent tcp://127.0.0.1:8000
